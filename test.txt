@@ -3,5 +3,3 @@ commit pertama
 commit kedua
 
 commit ketiga dari A
-
-commit keempat
